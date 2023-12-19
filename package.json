@@ -1,0 +1,16 @@
+{
+  "name": "guilhermeviinii-create-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "email dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-email/components": "0.0.12",
+    "react-email": "1.10.0"
+  }
+}
